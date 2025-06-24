@@ -1,0 +1,1 @@
+Ссылка на сайт: https://anatoliy-nik.github.io/iphone-14-pro/

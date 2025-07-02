@@ -242,7 +242,8 @@ ul {
         background-color: transparent;
         order: 1;
         border: none;
-        position: relative
+        position: relative;
+        cursor: pointer;
     }
     .button-line {
         position: absolute;
